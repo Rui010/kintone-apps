@@ -5,6 +5,6 @@
         textDiv.id  = "text_div";
         textDiv.innerHTML = "一覧画面です。";
 
-        kintone.app.getHeaderMenuSpaceElement().appendChild(textDiv;
+        kintone.app.getHeaderMenuSpaceElement().appendChild(textDiv);
     });
 })();
